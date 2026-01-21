@@ -183,6 +183,9 @@
   .m-auto {
     margin: auto;
   }
+  .mt-\[40px\] {
+    margin-top: 40px;
+  }
   .mb-2 {
     margin-bottom: calc(var(--spacing) * 2);
   }
@@ -197,6 +200,9 @@
   }
   .ml-\[5\%\] {
     margin-left: 5%;
+  }
+  .ml-\[20px\] {
+    margin-left: 20px;
   }
   .flex {
     display: flex;
@@ -364,6 +370,12 @@
   }
   .text-\[\#C5C5D2\] {
     color: #C5C5D2;
+  }
+  .text-\[w\] {
+    color: w;
+  }
+  .text-\[white\] {
+    color: white;
   }
   .text-amber-50 {
     color: var(--color-amber-50);
